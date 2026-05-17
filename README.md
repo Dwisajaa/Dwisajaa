@@ -1,10 +1,19 @@
-# Hello World!, I'm Dwi, An Ambitious Programmer from the Lower Class 👋🏼
+# Hello World!, I'm Dwi 👋🏼
 
-👨🏼‍🎓 Informatics Student at 17th August University of Surabaya  
-👨🏼‍💻 Learning and building since 2022  
+Computer Science Student from Indonesia 🇮🇩  
+Building projects in AI, IoT, Computer Vision, Web Development, Mobile Apps and 3D Design.
 
+Currently exploring Smart Systems, Embedded AI and Energy Analytics ⚡
 ---
+## 🚀 Interested Fields
 
+- Artificial Intelligence & Machine Learning
+- Internet of Things (IoT)
+- Computer Vision
+- Embedded Systems
+- Fullstack Web Development
+- Mobile Development
+- 3D Design & Modeling
 # 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
